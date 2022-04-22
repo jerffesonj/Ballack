@@ -1,0 +1,35 @@
+Personagem_Main.png
+size:311,127
+filter:Linear,Linear
+pma:true
+scale:0.5
+Boca
+bounds:285,2,37,5
+rotate:90
+[skin]verde/Boca
+bounds:285,2,37,5
+rotate:90
+Boca Lado
+bounds:304,16,23,5
+rotate:90
+[skin]verde/Boca Lado
+bounds:304,16,23,5
+rotate:90
+Boca_dano
+bounds:292,24,10,15
+[skin]verde/Boca_dano
+bounds:292,24,10,15
+Cabelo_Frente
+bounds:244,66,39,59
+Corpo
+bounds:2,6,119,119
+Sombra
+bounds:285,41,84,19
+rotate:90
+[skin]verde/Sombra
+bounds:285,41,84,19
+rotate:90
+[skin]verde/Cabelo_Frente
+bounds:244,5,39,59
+[skin]verde/Corpo
+bounds:123,6,119,119
